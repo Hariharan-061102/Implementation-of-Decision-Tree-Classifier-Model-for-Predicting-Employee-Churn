@@ -54,35 +54,35 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 Data Head:
 
-![decision tree classifier model](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/1.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/1.png)
 
 Information:
 
-![decision tree classifier model](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/2.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/2.png)
 
 Null dataset:
 
-![decision tree classifier model](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/3.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/3.png)
 
 Value_counys():
 
-![decision tree classifier model](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/4.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/4.png)
 
 Data Head:
 
-![decision tree classifier model](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5.png)
 
 x.head():
 
-![decision tree classifier model](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/6.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/6.png)
 
 Accuracy:
 
-![decision tree classifier model](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/7.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/7.png)
 
 Data Prediction:
 
-![decision tree classifier model](https://github.com/RanjithD18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/8.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/8.png)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
